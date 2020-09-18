@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+/packages/
+riderModule.iml
+/_ReSharper.Caches/

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <OutputType>Exe</OutputType>
+        <LangVersion>9</LangVersion>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="GeminiLab.Core2.Random" Version="1.0.0" />
+      <PackageReference Include="GeminiLab.Core2.Yielder" Version="1.0.0" />
+    </ItemGroup>
+
+</Project>
